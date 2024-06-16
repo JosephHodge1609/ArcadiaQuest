@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ArcadiaQuest/static/css/main.f855e6bc.css",
-    "main.js": "/ArcadiaQuest/static/js/main.55ec01e7.js",
+    "main.css": "/ArcadiaQuest/static/css/main.c71fe5ae.css",
+    "main.js": "/ArcadiaQuest/static/js/main.e9315cca.js",
     "static/js/453.e53a3421.chunk.js": "/ArcadiaQuest/static/js/453.e53a3421.chunk.js",
-    "static/media/logo.svg": "/ArcadiaQuest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/icon.jpg": "/ArcadiaQuest/static/media/icon.6697bf5304d84311a93c.jpg",
     "index.html": "/ArcadiaQuest/index.html",
-    "main.f855e6bc.css.map": "/ArcadiaQuest/static/css/main.f855e6bc.css.map",
-    "main.55ec01e7.js.map": "/ArcadiaQuest/static/js/main.55ec01e7.js.map",
+    "main.c71fe5ae.css.map": "/ArcadiaQuest/static/css/main.c71fe5ae.css.map",
+    "main.e9315cca.js.map": "/ArcadiaQuest/static/js/main.e9315cca.js.map",
     "453.e53a3421.chunk.js.map": "/ArcadiaQuest/static/js/453.e53a3421.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.55ec01e7.js"
+    "static/css/main.c71fe5ae.css",
+    "static/js/main.e9315cca.js"
   ]
 }

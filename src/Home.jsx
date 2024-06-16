@@ -10,7 +10,7 @@ function Home(){
         <div class="image-container">
             <img src={menulist} alt="image" />
             <div class="overlay-text">
-                <ul class="list">
+                <ul class="overlay-text">
                 <li>
                 Heroes
                 </li>

@@ -6,6 +6,9 @@ function Home(){
     return(
         
         <div id="main">
+                <img id="central" src={Centralpic} alt ="logo"/>        
+       
+
     <body>
         <div class="image-container">
             <img src={menulist} alt="image" />
@@ -23,9 +26,7 @@ function Home(){
     </body>
            
             
-        <img id="central" src={Centralpic} alt ="logo"/>        
-       
-
+    
 
 
         </div>
